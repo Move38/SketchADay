@@ -1,3 +1,4 @@
+# Sketch-A-Day
 
 ##### A digital napkin for the Blinks platform
 
